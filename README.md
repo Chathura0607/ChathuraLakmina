@@ -10,14 +10,13 @@
   <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%">
 </div>
 
-<br>
+---
 
 <div align="center">
-  
-```javascript
+  <h2>✨ About Me ✨</h2>
+  <pre>
 🌟 THE CODE ALCHEMIST 🌟
-```
-
+  </pre>
 </div>
 
 ```typescript
@@ -48,98 +47,88 @@ class DigitalSorcerer {
 }
 ```
 
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
+---
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="30px" height="30px">
-  Magical Arsenal
-  <img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="30px" height="30px">
-</h2>
+<div align="center">
+  <h2>✨ Magical Arsenal ✨</h2>
+</div>
 
 <details>
-<summary>🎭 Frontend Enchantments</summary>
-<br>
-<div align="center">
-  
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=black)
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&labelColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=black)
+  <summary style="font-size: 1.5rem; font-weight: bold;">🎭 Frontend Enchantments</summary>
+  <div align="center" style="margin-top: 10px; font-size: 1rem;">
 
-<img src="https://media.giphy.com/media/KEYMsj2LcXzfcTP5ii/giphy.gif" width="150px">
-</div>
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+<img src="https://media.giphy.com/media/KEYMsj2LcXzfcTP5ii/giphy.gif" width="150px" style="margin-top: 10px;">
+  </div>
 </details>
 
 <details>
-<summary>🔮 Backend Sorcery</summary>
-<br>
-<div align="center">
-  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white&labelColor=black)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white&labelColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white&labelColor=black)
-![Hibernate](https://img.shields.io/badge/Hibernate-%232E7D32.svg?style=for-the-badge&logo=hibernate&logoColor=white&labelColor=black)
+  <summary style="font-size: 1.5rem; font-weight: bold;">🔮 Backend Sorcery</summary>
+  <div align="center" style="margin-top: 10px; font-size: 1rem;">
+    
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-%232E7D32.svg?style=for-the-badge&logo=hibernate&logoColor=white)
 
-<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="150px">
-</div>
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="150px" style="margin-top: 10px;">
+  </div>
 </details>
 
 <details>
-<summary>✨ Tools and IDEs</summary>
-<br>
-<div align="center">
-  
+  <summary style="font-size: 1.5rem; font-weight: bold;">✨ Tools and IDEs</summary>
+  <div align="center" style="margin-top: 10px; font-size: 1rem;">
+
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Tomcat](https://img.shields.io/badge/Tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black&labelColor=white)
+![Tomcat](https://img.shields.io/badge/Tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 
-<img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" width="150px">
-</div>
+<img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" width="150px" style="margin-top: 10px;">
+  </div>
 </details>
 
-<br>
+---
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chathura0607&show_icons=true&locale=en&theme=radical" alt="Chathura0607" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chathura0607&theme=radical" alt="Chathura0607" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chathura0607&show_icons=true&locale=en&layout=compact&theme=radical" alt="Chathura0607" />
+  <h2>✨ GitHub Magic ✨</h2>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chathura0607&show_icons=true&locale=en&theme=radical" alt="Chathura0607" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chathura0607&theme=radical" alt="Chathura0607" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chathura0607&show_icons=true&locale=en&layout=compact&theme=radical" alt="Chathura0607" />
   <img src="https://github-profile-trophy.vercel.app/?username=Chathura0607&theme=radical&no-frame=true&row=1&column=6" alt="Chathura0607" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chathura0607&theme=tokyonight" alt="Profile Details">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chathura0607&theme=tokyonight&utcOffset=8" alt="Productive Time">
 </div>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chathura0607&theme=great-gatsby&hide_border=true&background=0D1117&ring=4F46E5&fire=FF0080&currStreakLabel=7928CA" width="49%" />
-</div>
+---
 
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <h2>✨ Magical Connections ✨</h2>
 </div>
-
-<h2 align="center">🌟 Magical Connections 🌟</h2>
 
 <div align="center">
   <a href="https://linkedin.com/in/chathura-lakmina" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black" />
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://behance.net/chathuralakmina" target="_blank">
-    <img src="https://img.shields.io/badge/-Behance-%231769FF?style=for-the-badge&logo=behance&logoColor=white&labelColor=black" />
+    <img src="https://img.shields.io/badge/-Behance-%231769FF?style=for-the-badge&logo=behance&logoColor=white" />
   </a>
   <a href="https://instagram.com/chathura_lakmina" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=black" />
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
 
-<br>
+---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200px">
   <h3>✨ Enchanted Visitors ✨</h3>
   <img src="https://profile-counter.glitch.me/chathuralakmina/count.svg" />
-</div>
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:7928CA,100:4F46E5&height=150&section=footer&text=✨%20End%20of%20the%20Magical%20Journey%20✨&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%">
 </div>
